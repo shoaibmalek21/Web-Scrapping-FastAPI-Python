@@ -1,3 +1,3 @@
 # Web-Scrapping-FastAPI-Python
 
-Getting Data like title, description, keywords, image from any url using FastAPI.
+Getting data like title, description, keywords, image from any url using FastAPI.
